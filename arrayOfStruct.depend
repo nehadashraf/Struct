@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730291650 source:d:\work_space\iti scholarship\intro to programming c\labs\day4\arrayofstruct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
